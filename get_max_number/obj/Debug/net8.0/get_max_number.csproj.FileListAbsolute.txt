@@ -1,0 +1,14 @@
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\bin\Debug\net8.0\get_max_number.exe
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\bin\Debug\net8.0\get_max_number.deps.json
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\bin\Debug\net8.0\get_max_number.runtimeconfig.json
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\bin\Debug\net8.0\get_max_number.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\bin\Debug\net8.0\get_max_number.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.AssemblyInfoInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.AssemblyInfo.cs
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.csproj.CoreCompileInputs.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\refint\get_max_number.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.pdb
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\get_max_number.genruntimeconfig.cache
+C:\Users\Davies\Desktop\2024\Programming\C#\get_max_number\get_max_number\obj\Debug\net8.0\ref\get_max_number.dll
